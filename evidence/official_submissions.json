@@ -1,0 +1,45 @@
+{
+  "participant": "김형주",
+  "participant_id": "P071",
+  "class_number": 3,
+  "source": "Official submission table supplied by participant in chat on 2026-10-16.",
+  "entries": [
+    {
+      "round": 1,
+      "submitted_at": "2026-10-13 13:19:32",
+      "timezone": "Asia/Seoul",
+      "Target_1_auc": 0.654356,
+      "Target_2_auc": 0.932959,
+      "mean_auc": 0.793657,
+      "status": "정상"
+    },
+    {
+      "round": 2,
+      "submitted_at": "2026-10-13 14:43:13",
+      "timezone": "Asia/Seoul",
+      "Target_1_auc": 0.665596,
+      "Target_2_auc": 0.943396,
+      "mean_auc": 0.804496,
+      "status": "정상"
+    },
+    {
+      "round": 3,
+      "submitted_at": "2026-10-13 17:30:06",
+      "timezone": "Asia/Seoul",
+      "Target_1_auc": 0.705741,
+      "Target_2_auc": 0.945002,
+      "mean_auc": 0.825371,
+      "status": "정상"
+    },
+    {
+      "round": 4,
+      "submitted_at": "2026-10-14 09:41:21",
+      "timezone": "Asia/Seoul",
+      "Target_1_auc": 0.73063,
+      "Target_2_auc": 0.934163,
+      "mean_auc": 0.832397,
+      "status": "정상"
+    }
+  ],
+  "note": "Round 4 scores match the historical stage2 local Public scores at six decimals; exact uploaded-file identity has not been independently verified."
+}

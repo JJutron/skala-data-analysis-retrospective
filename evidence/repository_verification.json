@@ -7,7 +7,9 @@
   "private_prediction_rows": 200,
   "matched_frozen_predictions": true,
   "absolute_tolerance": 1e-09,
-  "markdown_local_links_checked": 15,
+  "markdown_local_links_checked": 19,
   "raw_data_tracked": false,
-  "final_winning_recipe_verified": false
+  "final_winning_recipe_verified": false,
+  "official_rounds_checked": 4,
+  "official_score_rounding_tolerance": 5e-07
 }
