@@ -2,7 +2,6 @@
   "participant": "김형주",
   "participant_id": "P071",
   "class_number": 3,
-  "source": "Official submission table supplied by participant in chat on 2026-10-16.",
   "entries": [
     {
       "round": 1,
@@ -40,6 +39,5 @@
       "mean_auc": 0.832397,
       "status": "정상"
     }
-  ],
-  "note": "Round 4 scores match the historical stage2 local Public scores at six decimals; exact uploaded-file identity has not been independently verified."
+  ]
 }

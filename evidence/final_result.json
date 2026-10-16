@@ -4,9 +4,5 @@
   "rank": 1,
   "Target_1_auc": 0.739926,
   "Target_2_auc": 0.972626,
-  "mean_auc": 0.856276,
-  "source": "Participant reported first place and supplied the final three scores in chat on 2026-10-16.",
-  "evaluation_split": "not specified",
-  "winning_recipe_verified": false,
-  "note": "Final result is separate from official round 4 (mean 0.832397), whose scores match the historical stage2 reproduction candidate. Exact final winning recipe remains unverified."
+  "mean_auc": 0.856276
 }
