@@ -1,0 +1,43 @@
+{
+  "prior": {
+    "winner": "two_offsets_half",
+    "selected": [
+      {
+        "name": "core_o1_c0.1_a1000",
+        "group": "core",
+        "offset": 1,
+        "C": 0.1,
+        "alpha": 1000
+      },
+      {
+        "name": "core_o2_c0.1_a1000",
+        "group": "core",
+        "offset": 2,
+        "C": 0.1,
+        "alpha": 1000
+      }
+    ]
+  },
+  "selected": [
+    {
+      "name": "core_nca_90",
+      "kind": "nca",
+      "group": "core",
+      "neighbors": 90
+    }
+  ],
+  "half_blend": true,
+  "health": [
+    {
+      "name": "v2_baseline",
+      "kind": "baseline_food",
+      "group": "raw"
+    },
+    {
+      "name": "calendar_cat5",
+      "kind": "cat",
+      "group": "food_calendar",
+      "depth": 5
+    }
+  ]
+}

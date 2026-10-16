@@ -1,0 +1,21 @@
+{
+  "public_auc": {
+    "Target_1": 0.7306302689682859,
+    "Target_2": 0.9341629867523084,
+    "mean": 0.8323966278602971
+  },
+  "goal_mean_auc": 0.96,
+  "goal_threshold_met": false,
+  "shortfall": 0.12760337213970285,
+  "needed_financial_at_fixed_health": 0.9858370132476916,
+  "chosen_report": "clean_causal96_stage2_run/report.json",
+  "prediction_sha256": "ccb3e8bf6c5fa8b3755f851872c984ad9461c57fbbe71639ae232741d5921381",
+  "truth_sha256": "08c54ad79a78ca0ef37475613ea4d7caeb6cd1ab3dc0ab8b648e78efb9c5e330",
+  "prediction_frozen_before_truth_read": true,
+  "public_answers_used_for_training": false,
+  "public_answers_used_for_candidate_selection": false,
+  "measured_candidate_count": 1,
+  "official_score_verified": false,
+  "official_rank_verified": false,
+  "note": "One frozen training-selected candidate measured against user-provided Public answers. Public answers were used in older work before this clean pipeline, so this is not a fresh untouched test. Do not use this report to choose row corrections, hyperparameters, blends, or alternate candidates."
+}

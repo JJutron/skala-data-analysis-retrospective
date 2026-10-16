@@ -1,0 +1,13 @@
+.DS_Store
+.venv*/
+__pycache__/
+*.py[cod]
+catboost_info/
+.env
+.env.*
+src/data/*
+!src/data/README.md
+src/models*/
+src/outputs/
+src/clean_causal*_run/
+*.joblib

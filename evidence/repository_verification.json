@@ -1,0 +1,13 @@
+{
+  "verified_on": "2026-10-16",
+  "python": "3.12.14",
+  "synthetic_tests_passed": 9,
+  "fixed_recipe_retrained": true,
+  "public_prediction_rows": 100,
+  "private_prediction_rows": 200,
+  "matched_frozen_predictions": true,
+  "absolute_tolerance": 1e-09,
+  "markdown_local_links_checked": 15,
+  "raw_data_tracked": false,
+  "final_winning_recipe_verified": false
+}
